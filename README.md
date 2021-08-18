@@ -26,4 +26,5 @@ This Github repository mirrors exactly the directory structure used in Google Dr
 * **"Code" directory:** contains the .ipynb Colab notebook with the entire code and std output prints.
 * **"Output" directory:** contains a .png graph of the model structure, obtained through Keras *plot_model* utility, and the set of weights saved after the training.
 * **"Src" directory:** contains the 3 word-level dataset files *ptb.(train | valid | test).txt* from the Penn Treebank dataset. The dataset has been downloaded from the official website https://deepai.org/dataset/penn-treebank 
-* **"Report" directory:** contains the project PDF report.
+
+The project PDF report is available in the main directory.
