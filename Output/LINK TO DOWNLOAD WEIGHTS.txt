@@ -1,6 +1,0 @@
----
-Since some of the weights files are too big for GitHub, they can be downloaded from this Google Drive link:
-https://drive.google.com/drive/folders/1E5p8p0jQFO9RI3hAVPr6UzmnjkLZiD8u?usp=sharing
-
-Please put the downloaded files into the ./Output folder if you need to run the code.
----
