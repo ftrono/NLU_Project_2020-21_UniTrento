@@ -17,7 +17,7 @@ The code has been developed and executed on Google Colaboratory in the form of a
 
 **Ready for execution:** 
 
-The model submitted is a GRU RNN, which I have trained during the implementation. The weights calculated during the training are provided in the *./Output* directory. The code can be readily tested and evaluated by setting the toggle *"pretrained = **True**"* in the .ipynb file, which tells Colab to load the provided weights instead of having to train the model again.**
+The model submitted is a GRU RNN, which I have trained during the implementation. The weights calculated during the training are provided in the *./Output* directory. The code can be readily tested and evaluated by setting the toggle *"pretrained = **True**"* in the .ipynb file, which tells Colab to load the provided weights instead of having to train the model again.
 
 
 **Repo structure:**
